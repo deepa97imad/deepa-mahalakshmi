@@ -1,7 +1,4 @@
-Got it 👍
-Below is a **clean, emoji-free, corporate-style GitHub Profile README** — very suitable for **recruiters, hiring managers, and senior technical roles**.
 
-You can directly paste this into your **GitHub Profile README (`README.md`)**.
 
 ---
 
